@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bYPPJNjT9uVCMYSGrb8lIg
+! Checksum: 9rFtt7mGRsf5XrgznFZXaQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 23 Sep 2017 23:42:29 -0400
+! Last Modified: Sat, 27 Sep 2017 18:24:29 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -430,6 +430,7 @@ d1c37gjwa26taa.cloudfront.net
 d3c33hcgiwev3.cloudfront.net
 |https://d3c33hcgiwev3.cloudfront.net
 ||d3rhr7kgmtrq1v.cloudfront.net
+||cloudfront.net
 
 !!---DtDNS---
 !###https://www.dtdns.com/dtsite/faq
@@ -989,6 +990,8 @@ aiweiwei.com
 
 !!---Akamai---
 |https://fbcdn*.akamaihd.net/
+||steamstore-a.akamaihd.net
+||akamaihd.net
 a248.e.akamai.net
 ||a248.e.akamai.net
 voa-11.akacast.akamaistream.net
@@ -2663,6 +2666,7 @@ fzh999.net
 fzlm.com
 
 !--------------------GG-------------------------
+||gradle.org
 .g6hentai.com
 |http://g6hentai.com
 ||g-queen.com
@@ -2776,6 +2780,7 @@ http://cthlo.github.io/hktv
 ||sodatea.github.io
 wsgzao.github.io
 |https://wsgzao.github.io
+||github.com
 !--.github.io
 
 .gizlen.net
@@ -3404,6 +3409,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||imgs.co
 ||i1.hk
 ||i2p2.de
 ||i2runner.com
@@ -5034,6 +5040,7 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||s3.amazonaws.com
 .s1s1s1.com
 ||s-cute.com
 .s-dragon.org
@@ -5465,6 +5472,7 @@ blog.syx86.cn/2009/09/puff
 ||szetowah.org.hk
 
 !--------------------TT-------------------------
+||teamviewer.com
 .t35.com
 .t66y.com
 ||t66y.com
@@ -6176,6 +6184,7 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------VV-------------------------
+||vnet.link
 .v2ray.com
 |http://v2ray.com
 .van001.com
