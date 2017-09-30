@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 9rFtt7mGRsf5XrgznFZXaQ
+! Checksum: szOqiU5/wQMUGCHw4jl7dA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 27 Sep 2017 18:24:29 +0800
+! Last Modified: Sat, 30 Sep 2017 18:24:29 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2779,6 +2779,7 @@ http://cthlo.github.io/hktv
 !--|http://onionhacker.github.io
 ||sodatea.github.io
 wsgzao.github.io
+||git-scm.com
 |https://wsgzao.github.io
 ||github.com
 !--.github.io
@@ -3826,6 +3827,7 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||lede-project.org
 la-forum.org
 ladbrokes.com
 ||labiennale.org
